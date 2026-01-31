@@ -1,11 +1,3 @@
-'''
-"root": {
-            "id": 11,
-            "text": "мотивационное"
-
-это реально корень так находится или что происходит?
-'''
-
 from natasha import (
     Doc,
     Segmenter,
@@ -93,5 +85,6 @@ def process_prompts(input_file, output_file):
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(corpus, f, ensure_ascii=False, indent=2)
+
 
 process_prompts("rus_prompts.txt", "ru_corpus.json")
