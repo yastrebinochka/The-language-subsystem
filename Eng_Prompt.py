@@ -7,7 +7,8 @@ def process_prompts(input_file, output_file):
     with open(input_file, "r", encoding="utf-8") as file:
         content = file.read()
 
-    prompts = [prompt.strip() for prompt in re.split(r'\d+\.\s*', content)[1:] if prompt.strip()] #разбивка по нумерации
+    matches = re.findall(r'(?:^|\n)(\d+\.\s*)(.*?)(?=\n\d+\.\s*|$)', content, re.DOTALL)
+    prompts = [match[1].strip() for match in matches if match[1].strip()] #разбивка по нумерации
 
     corpus = []
     for idx, prompt_text in enumerate(prompts, start=1): #разметка

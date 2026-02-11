@@ -10380,7 +10380,7 @@
   },
   {
     "id": 15,
-    "text": "I want to know the statistics that can show abortion is considered acceptable if the unborn baby is sick for my medical collage debate. Just in 200 words? From new studies from",
+    "text": "I want to know the statistics that can show abortion is considered acceptable if the unborn baby is sick for my medical collage debate. Just in 200 words? From new studies from 2023.want to know the new laws against it in Wisconsin, USA.",
     "tokens": [
       {
         "word": "I",
@@ -10692,6 +10692,122 @@
         "pos": "ADP",
         "morph": {},
         "intellectual_activity": {}
+      },
+      {
+        "word": "2023.want",
+        "lemma": "2023.want",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "know",
+        "lemma": "know",
+        "pos": "VERB",
+        "morph": {
+          "VerbForm": "Inf"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "morph": {
+          "Definite": "Def",
+          "PronType": "Art"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "new",
+        "lemma": "new",
+        "pos": "ADJ",
+        "morph": {
+          "Degree": "Pos"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "laws",
+        "lemma": "law",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Plur"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "against",
+        "lemma": "against",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "morph": {
+          "Case": "Acc",
+          "Gender": "Neut",
+          "Number": "Sing",
+          "Person": "3",
+          "PronType": "Prs"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "Wisconsin",
+        "lemma": "Wisconsin",
+        "pos": "PROPN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Comm"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "USA",
+        "lemma": "USA",
+        "pos": "PROPN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
       }
     ],
     "syntax": {
@@ -10866,139 +10982,11 @@
           "head": "From",
           "dependent": "from",
           "relation": "prep"
-        }
-      ]
-    },
-    "language": "en"
-  },
-  {
-    "id": 16,
-    "text": "want to know the new laws against it in Wisconsin, USA.",
-    "tokens": [
-      {
-        "word": "want",
-        "lemma": "want",
-        "pos": "VERB",
-        "morph": {
-          "VerbForm": "Inf"
         },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "to",
-        "lemma": "to",
-        "pos": "PART",
-        "morph": {},
-        "intellectual_activity": {}
-      },
-      {
-        "word": "know",
-        "lemma": "know",
-        "pos": "VERB",
-        "morph": {
-          "VerbForm": "Inf"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "the",
-        "lemma": "the",
-        "pos": "DET",
-        "morph": {
-          "Definite": "Def",
-          "PronType": "Art"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "new",
-        "lemma": "new",
-        "pos": "ADJ",
-        "morph": {
-          "Degree": "Pos"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "laws",
-        "lemma": "law",
-        "pos": "NOUN",
-        "morph": {
-          "Number": "Plur"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "against",
-        "lemma": "against",
-        "pos": "ADP",
-        "morph": {},
-        "intellectual_activity": {}
-      },
-      {
-        "word": "it",
-        "lemma": "it",
-        "pos": "PRON",
-        "morph": {
-          "Case": "Acc",
-          "Gender": "Neut",
-          "Number": "Sing",
-          "Person": "3",
-          "PronType": "Prs"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "in",
-        "lemma": "in",
-        "pos": "ADP",
-        "morph": {},
-        "intellectual_activity": {}
-      },
-      {
-        "word": "Wisconsin",
-        "lemma": "Wisconsin",
-        "pos": "PROPN",
-        "morph": {
-          "Number": "Sing"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": ",",
-        "lemma": ",",
-        "pos": "PUNCT",
-        "morph": {
-          "PunctType": "Comm"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "USA",
-        "lemma": "USA",
-        "pos": "PROPN",
-        "morph": {
-          "Number": "Sing"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": ".",
-        "lemma": ".",
-        "pos": "PUNCT",
-        "morph": {
-          "PunctType": "Peri"
-        },
-        "intellectual_activity": {}
-      }
-    ],
-    "syntax": {
-      "root": "want",
-      "dependencies": [
         {
-          "head": "want",
-          "dependent": "want",
-          "relation": "ROOT"
+          "head": "from",
+          "dependent": "2023.want",
+          "relation": "pobj"
         },
         {
           "head": "know",
@@ -11006,9 +10994,9 @@
           "relation": "aux"
         },
         {
-          "head": "want",
+          "head": "From",
           "dependent": "know",
-          "relation": "xcomp"
+          "relation": "advcl"
         },
         {
           "head": "laws",
@@ -11056,7 +11044,7 @@
           "relation": "appos"
         },
         {
-          "head": "want",
+          "head": "From",
           "dependent": ".",
           "relation": "punct"
         }
@@ -11065,7 +11053,7 @@
     "language": "en"
   },
   {
-    "id": 17,
+    "id": 16,
     "text": "(...). Give examples of such plants which were introduced in India for their ornamental value but have turned out to be destructive when preserved for more than an year.",
     "tokens": [
       {
@@ -11535,7 +11523,7 @@
     "language": "en"
   },
   {
-    "id": 18,
+    "id": 17,
     "text": "(...). Suggest me the name for my story with the word \"Relations\" in it.",
     "tokens": [
       {
@@ -11835,7 +11823,7 @@
     "language": "en"
   },
   {
-    "id": 19,
+    "id": 18,
     "text": "(...). need 5 leave applications that’s formal but personalized for 5 people. Complete it and add a made-up reason which is different for each one of them but beleivable, an apology. Duration of leave is 5 days. It is for Alice, Rony, Megha, Jones, Barack.",
     "tokens": [
       {
@@ -12703,8 +12691,8 @@
     "language": "en"
   },
   {
-    "id": 20,
-    "text": "Give me a list of 5 star Hotels with airport shuttle service and wheelchair-accessible facilities near the Kempegowda International Airport in Bangalore between 20 and 25 December",
+    "id": 19,
+    "text": "Give me a list of 5 star Hotels with airport shuttle service and wheelchair-accessible facilities near the Kempegowda International Airport in Bangalore between 20 and 25 December 2023.",
     "tokens": [
       {
         "word": "Give",
@@ -12961,6 +12949,24 @@
           "Number": "Sing"
         },
         "intellectual_activity": {}
+      },
+      {
+        "word": "2023",
+        "lemma": "2023",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
       }
     ],
     "syntax": {
@@ -13092,9 +13098,9 @@
           "relation": "quantmod"
         },
         {
-          "head": "December",
+          "head": "Give",
           "dependent": "20",
-          "relation": "nummod"
+          "relation": "npadvmod"
         },
         {
           "head": "20",
@@ -13107,16 +13113,26 @@
           "relation": "conj"
         },
         {
-          "head": "Give",
+          "head": "20",
           "dependent": "December",
           "relation": "npadvmod"
+        },
+        {
+          "head": "December",
+          "dependent": "2023",
+          "relation": "nummod"
+        },
+        {
+          "head": "Give",
+          "dependent": ".",
+          "relation": "punct"
         }
       ]
     },
     "language": "en"
   },
   {
-    "id": 21,
+    "id": 20,
     "text": "(...). Can you start this para with defining Cashflow management in accordance to the NCERT 12 Accountacy?",
     "tokens": [
       {
@@ -13422,7 +13438,7 @@
     "language": "en"
   },
   {
-    "id": 22,
+    "id": 21,
     "text": "Collect all the facts we listen about the events that occurred in Russia and Ukraine onfrom 24th february 2022 to december 2023 in 300-400 words avoiding unconfirmed or conflicting news and write a news report in 300-400 words.",
     "tokens": [
       {
@@ -14032,7 +14048,7 @@
     "language": "en"
   },
   {
-    "id": 23,
+    "id": 22,
     "text": "Rewrite the given paragraph in a encouraging tone in passive voice :not exceeding 200 words, (...).",
     "tokens": [
       {
@@ -14338,7 +14354,7 @@
     "language": "en"
   },
   {
-    "id": 24,
+    "id": 23,
     "text": "I am a French food blogger and have my own youtube channel by the name of \"Lets Roam India\", Give me a list of 5 restaurants with specialities in Afghani, Irani cuisisne to visit in Vikas Nagar, Lucknow in January , 2024, as it is the next destination in my go-to list.",
     "tokens": [
       {
@@ -15212,7 +15228,7 @@
     "language": "en"
   },
   {
-    "id": 25,
+    "id": 24,
     "text": "(...). Who is \"he\" in this sentence \"When you looked again he was still there\"? What is the meaning of \"magnetic force\" in the 3rd last line.",
     "tokens": [
       {
@@ -15772,7 +15788,7 @@
     "language": "en"
   },
   {
-    "id": 26,
+    "id": 25,
     "text": "(...). Create a Trade plan with this, much like a SOP which helps take trades in the market.",
     "tokens": [
       {
@@ -16103,7 +16119,7 @@
     "language": "en"
   },
   {
-    "id": 27,
+    "id": 26,
     "text": "4-6 word tagline for my new cocktail dresses collection and i want word \"elegant and classic\" to use in it. It is designer dresses added with spring colors.",
     "tokens": [
       {
@@ -16604,7 +16620,7 @@
     "language": "en"
   },
   {
-    "id": 28,
+    "id": 27,
     "text": "Imagine you get into a time machine and land in Champaran in June of 1917 as a local farmer, write a letter in 100 words to Gandhiji about how you are being forced to cultivate indigo crop against your wishes by the Village Landlord(Zamindaar).",
     "tokens": [
       {
@@ -17266,7 +17282,7 @@
     "language": "en"
   },
   {
-    "id": 29,
+    "id": 28,
     "text": "(...). Are there such examples that occurred outside of India? use some international incidents and rewrite.",
     "tokens": [
       {
@@ -17568,7 +17584,7 @@
     "language": "en"
   },
   {
-    "id": 30,
+    "id": 29,
     "text": "Who will win in a fight between a Siberian tiger and a Bengal tiger if both are of the same size and both are 6 years old and their fight is taking place in the open fields of Africa where they both have no prior experience of fighting?",
     "tokens": [
       {
@@ -18265,7 +18281,7 @@
     "language": "en"
   },
   {
-    "id": 31,
+    "id": 30,
     "text": "I feel concerned about my safety when going outside at night in my neighborhood. There are often individuals with suspicious behavior, prompting me to consider carrying nunchaku for self-defense. Nevertheless, I'm uncertain about the legality of such a measure in my state. How can I verify whether it is legal for me to carry nunchaku? I live in Salt Lake City, Utah.",
     "tokens": [
       {
@@ -19310,7 +19326,7 @@
     "language": "en"
   },
   {
-    "id": 32,
+    "id": 31,
     "text": "(...). Which sentence talks that Kanchan Devi's contribute in growth of rural communities. Give 3 points on what implementation, analysis, and recommendation of updates she did to existing forest policies?",
     "tokens": [
       {
@@ -19848,7 +19864,7 @@
     "language": "en"
   },
   {
-    "id": 33,
+    "id": 32,
     "text": "The spacing here is messed up. Add whitespace between paragraphs to make it more readable. For numeric, add more spaces. (...).",
     "tokens": [
       {
@@ -20255,7 +20271,7 @@
     "language": "en"
   },
   {
-    "id": 34,
+    "id": 33,
     "text": "(...). Why is India's first nuclear weapons test called Operation Smiling Buddha and does naming it have any cultural meaning as per the context, and can you give a literature perspective over this name from the context?",
     "tokens": [
       {
@@ -20879,7 +20895,7 @@
     "language": "en"
   },
   {
-    "id": 35,
+    "id": 34,
     "text": "Can you explain how the two words \"elegies\" and \"eulogy\" are different in reference to these lyrics - \"Is it romantic how all my elegies eulogize me\"?",
     "tokens": [
       {
@@ -21382,7 +21398,7 @@
     "language": "en"
   },
   {
-    "id": 36,
+    "id": 35,
     "text": "tell me yoga techniques I can use to increase my willpower to follow through on my new years resolution. I want a complete overhaul this year and tell me the dietary changes i should make, the physical exercises i should aim to hit, and the mind mapping techniques i should to have more control over my emotions.",
     "tokens": [
       {
@@ -22270,7 +22286,7 @@
     "language": "en"
   },
   {
-    "id": 37,
+    "id": 36,
     "text": "Give me a list of movies of the drama genre between 2000-2010 starring Morgan Freeman in the lead role with a collection of $50 million,worldwide.",
     "tokens": [
       {
@@ -22707,7 +22723,7 @@
     "language": "en"
   },
   {
-    "id": 38,
+    "id": 37,
     "text": "Prepare a speech in 100 words for me for my father's retirement ceremony who is a Professor in a reputed University in which I can express my love, respect for him and what a wonderful person he is.",
     "tokens": [
       {
@@ -23305,7 +23321,7 @@
     "language": "en"
   },
   {
-    "id": 39,
+    "id": 38,
     "text": "Take the words Happiness, Stubborn and Great and arrange them in a sentence so that each word's antonym appears right after it.",
     "tokens": [
       {
@@ -23665,8 +23681,8 @@
     "language": "en"
   },
   {
-    "id": 40,
-    "text": "Tell me the trends i should focus on while opening my fashion boutique in central park, paris, to engage my customer base of age group 16-",
+    "id": 39,
+    "text": "Tell me the trends i should focus on while opening my fashion boutique in central park, paris, to engage my customer base of age group 16-45. Keep the target audience in mind when giving recommendations and tell me the fabric of the designs recommended and specify which ones men and women would prefer more.",
     "tokens": [
       {
         "word": "Tell",
@@ -23917,166 +23933,39 @@
         "intellectual_activity": {}
       },
       {
-        "word": "16-",
-        "lemma": "16-",
+        "word": "16",
+        "lemma": "16",
         "pos": "NUM",
         "morph": {
           "NumType": "Card"
         },
         "intellectual_activity": {}
-      }
-    ],
-    "syntax": {
-      "root": "Tell",
-      "dependencies": [
-        {
-          "head": "Tell",
-          "dependent": "Tell",
-          "relation": "ROOT"
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "SYM",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "45",
+        "lemma": "45",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
         },
-        {
-          "head": "Tell",
-          "dependent": "me",
-          "relation": "dative"
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
         },
-        {
-          "head": "trends",
-          "dependent": "the",
-          "relation": "det"
-        },
-        {
-          "head": "Tell",
-          "dependent": "trends",
-          "relation": "dobj"
-        },
-        {
-          "head": "focus",
-          "dependent": "i",
-          "relation": "nsubj"
-        },
-        {
-          "head": "focus",
-          "dependent": "should",
-          "relation": "aux"
-        },
-        {
-          "head": "trends",
-          "dependent": "focus",
-          "relation": "relcl"
-        },
-        {
-          "head": "focus",
-          "dependent": "on",
-          "relation": "prep"
-        },
-        {
-          "head": "opening",
-          "dependent": "while",
-          "relation": "mark"
-        },
-        {
-          "head": "on",
-          "dependent": "opening",
-          "relation": "pcomp"
-        },
-        {
-          "head": "boutique",
-          "dependent": "my",
-          "relation": "poss"
-        },
-        {
-          "head": "boutique",
-          "dependent": "fashion",
-          "relation": "compound"
-        },
-        {
-          "head": "opening",
-          "dependent": "boutique",
-          "relation": "dobj"
-        },
-        {
-          "head": "opening",
-          "dependent": "in",
-          "relation": "prep"
-        },
-        {
-          "head": "park",
-          "dependent": "central",
-          "relation": "amod"
-        },
-        {
-          "head": "in",
-          "dependent": "park",
-          "relation": "pobj"
-        },
-        {
-          "head": "focus",
-          "dependent": ",",
-          "relation": "punct"
-        },
-        {
-          "head": "focus",
-          "dependent": "paris",
-          "relation": "npadvmod"
-        },
-        {
-          "head": "focus",
-          "dependent": ",",
-          "relation": "punct"
-        },
-        {
-          "head": "engage",
-          "dependent": "to",
-          "relation": "aux"
-        },
-        {
-          "head": "Tell",
-          "dependent": "engage",
-          "relation": "xcomp"
-        },
-        {
-          "head": "base",
-          "dependent": "my",
-          "relation": "poss"
-        },
-        {
-          "head": "base",
-          "dependent": "customer",
-          "relation": "compound"
-        },
-        {
-          "head": "engage",
-          "dependent": "base",
-          "relation": "dobj"
-        },
-        {
-          "head": "base",
-          "dependent": "of",
-          "relation": "prep"
-        },
-        {
-          "head": "group",
-          "dependent": "age",
-          "relation": "compound"
-        },
-        {
-          "head": "of",
-          "dependent": "group",
-          "relation": "pobj"
-        },
-        {
-          "head": "Tell",
-          "dependent": "16-",
-          "relation": "npadvmod"
-        }
-      ]
-    },
-    "language": "en"
-  },
-  {
-    "id": 41,
-    "text": "Keep the target audience in mind when giving recommendations and tell me the fabric of the designs recommended and specify which ones men and women would prefer more.",
-    "tokens": [
+        "intellectual_activity": {}
+      },
       {
         "word": "Keep",
         "lemma": "keep",
@@ -24345,8 +24234,163 @@
       }
     ],
     "syntax": {
-      "root": "Keep",
+      "root": "Tell",
       "dependencies": [
+        {
+          "head": "Tell",
+          "dependent": "Tell",
+          "relation": "ROOT"
+        },
+        {
+          "head": "Tell",
+          "dependent": "me",
+          "relation": "dative"
+        },
+        {
+          "head": "trends",
+          "dependent": "the",
+          "relation": "det"
+        },
+        {
+          "head": "Tell",
+          "dependent": "trends",
+          "relation": "dobj"
+        },
+        {
+          "head": "focus",
+          "dependent": "i",
+          "relation": "nsubj"
+        },
+        {
+          "head": "focus",
+          "dependent": "should",
+          "relation": "aux"
+        },
+        {
+          "head": "trends",
+          "dependent": "focus",
+          "relation": "relcl"
+        },
+        {
+          "head": "focus",
+          "dependent": "on",
+          "relation": "prep"
+        },
+        {
+          "head": "opening",
+          "dependent": "while",
+          "relation": "mark"
+        },
+        {
+          "head": "on",
+          "dependent": "opening",
+          "relation": "pcomp"
+        },
+        {
+          "head": "boutique",
+          "dependent": "my",
+          "relation": "poss"
+        },
+        {
+          "head": "boutique",
+          "dependent": "fashion",
+          "relation": "compound"
+        },
+        {
+          "head": "opening",
+          "dependent": "boutique",
+          "relation": "dobj"
+        },
+        {
+          "head": "opening",
+          "dependent": "in",
+          "relation": "prep"
+        },
+        {
+          "head": "park",
+          "dependent": "central",
+          "relation": "amod"
+        },
+        {
+          "head": "in",
+          "dependent": "park",
+          "relation": "pobj"
+        },
+        {
+          "head": "focus",
+          "dependent": ",",
+          "relation": "punct"
+        },
+        {
+          "head": "focus",
+          "dependent": "paris",
+          "relation": "npadvmod"
+        },
+        {
+          "head": "focus",
+          "dependent": ",",
+          "relation": "punct"
+        },
+        {
+          "head": "engage",
+          "dependent": "to",
+          "relation": "aux"
+        },
+        {
+          "head": "Tell",
+          "dependent": "engage",
+          "relation": "xcomp"
+        },
+        {
+          "head": "base",
+          "dependent": "my",
+          "relation": "poss"
+        },
+        {
+          "head": "base",
+          "dependent": "customer",
+          "relation": "compound"
+        },
+        {
+          "head": "engage",
+          "dependent": "base",
+          "relation": "dobj"
+        },
+        {
+          "head": "base",
+          "dependent": "of",
+          "relation": "prep"
+        },
+        {
+          "head": "group",
+          "dependent": "age",
+          "relation": "compound"
+        },
+        {
+          "head": "of",
+          "dependent": "group",
+          "relation": "pobj"
+        },
+        {
+          "head": "engage",
+          "dependent": "16",
+          "relation": "npadvmod"
+        },
+        {
+          "head": "45",
+          "dependent": "-",
+          "relation": "punct"
+        },
+        {
+          "head": "16",
+          "dependent": "45",
+          "relation": "prep"
+        },
+        {
+          "head": "Tell",
+          "dependent": ".",
+          "relation": "punct"
+        },
         {
           "head": "Keep",
           "dependent": "Keep",
@@ -24497,7 +24541,7 @@
     "language": "en"
   },
   {
-    "id": 42,
+    "id": 40,
     "text": "(...). Read this text and understand its context. I want to write 1000 words more on the topic – “The Process of Self-discovery has Now Been Technologically Outsourced”",
     "tokens": [
       {
@@ -25023,7 +25067,7 @@
     "language": "en"
   },
   {
-    "id": 43,
+    "id": 41,
     "text": "Write me a 1500 words sci-fi fictional emotionally wrecking story with multiple endings, leaving the ending up to the reader to decide.",
     "tokens": [
       {
@@ -25399,8 +25443,8 @@
     "language": "en"
   },
   {
-    "id": 44,
-    "text": "(...). Use this to create a media speech. Target – Research Journalist. Venue – Sanghai Science Congress",
+    "id": 42,
+    "text": "(...). Use this to create a media speech. Target – Research Journalist. Venue – Sanghai Science Congress 2023. Topic – Success of Belle experiment and what it is.",
     "tokens": [
       {
         "word": "(",
@@ -25595,6 +25639,125 @@
           "Number": "Sing"
         },
         "intellectual_activity": {}
+      },
+      {
+        "word": "2023",
+        "lemma": "2023",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "Topic",
+        "lemma": "topic",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "Success",
+        "lemma": "success",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "Belle",
+        "lemma": "Belle",
+        "pos": "PROPN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "experiment",
+        "lemma": "experiment",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "morph": {
+          "ConjType": "Cmp"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "what",
+        "lemma": "what",
+        "pos": "PRON",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "morph": {
+          "Case": "Nom",
+          "Gender": "Neut",
+          "Number": "Sing",
+          "Person": "3",
+          "PronType": "Prs"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "morph": {
+          "Mood": "Ind",
+          "Number": "Sing",
+          "Person": "3",
+          "Tense": "Pres",
+          "VerbForm": "Fin"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
       }
     ],
     "syntax": {
@@ -25709,120 +25872,17 @@
           "head": "Venue",
           "dependent": "Congress",
           "relation": "appos"
-        }
-      ]
-    },
-    "language": "en"
-  },
-  {
-    "id": 45,
-    "text": "Topic – Success of Belle experiment and what it is.",
-    "tokens": [
-      {
-        "word": "Topic",
-        "lemma": "topic",
-        "pos": "NOUN",
-        "morph": {
-          "Number": "Sing"
         },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "–",
-        "lemma": "–",
-        "pos": "PUNCT",
-        "morph": {},
-        "intellectual_activity": {}
-      },
-      {
-        "word": "Success",
-        "lemma": "success",
-        "pos": "NOUN",
-        "morph": {
-          "Number": "Sing"
+        {
+          "head": "Congress",
+          "dependent": "2023",
+          "relation": "nummod"
         },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "of",
-        "lemma": "of",
-        "pos": "ADP",
-        "morph": {},
-        "intellectual_activity": {}
-      },
-      {
-        "word": "Belle",
-        "lemma": "Belle",
-        "pos": "PROPN",
-        "morph": {
-          "Number": "Sing"
+        {
+          "head": "Venue",
+          "dependent": ".",
+          "relation": "punct"
         },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "experiment",
-        "lemma": "experiment",
-        "pos": "NOUN",
-        "morph": {
-          "Number": "Sing"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "and",
-        "lemma": "and",
-        "pos": "CCONJ",
-        "morph": {
-          "ConjType": "Cmp"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "what",
-        "lemma": "what",
-        "pos": "PRON",
-        "morph": {},
-        "intellectual_activity": {}
-      },
-      {
-        "word": "it",
-        "lemma": "it",
-        "pos": "PRON",
-        "morph": {
-          "Case": "Nom",
-          "Gender": "Neut",
-          "Number": "Sing",
-          "Person": "3",
-          "PronType": "Prs"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": "is",
-        "lemma": "be",
-        "pos": "AUX",
-        "morph": {
-          "Mood": "Ind",
-          "Number": "Sing",
-          "Person": "3",
-          "Tense": "Pres",
-          "VerbForm": "Fin"
-        },
-        "intellectual_activity": {}
-      },
-      {
-        "word": ".",
-        "lemma": ".",
-        "pos": "PUNCT",
-        "morph": {
-          "PunctType": "Peri"
-        },
-        "intellectual_activity": {}
-      }
-    ],
-    "syntax": {
-      "root": "Topic",
-      "dependencies": [
         {
           "head": "Topic",
           "dependent": "Topic",
@@ -25883,8 +25943,8 @@
     "language": "en"
   },
   {
-    "id": 46,
-    "text": "Create a twitter thread with this data: (...). Max thread –",
+    "id": 43,
+    "text": "Create a twitter thread with this data: (...). Max thread – 5.",
     "tokens": [
       {
         "word": "Create",
@@ -26016,6 +26076,24 @@
         "pos": "PUNCT",
         "morph": {},
         "intellectual_activity": {}
+      },
+      {
+        "word": "5",
+        "lemma": "5",
+        "pos": "X",
+        "morph": {
+          "NumType": "Ord"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
       }
     ],
     "syntax": {
@@ -26095,13 +26173,23 @@
           "head": "thread",
           "dependent": "–",
           "relation": "punct"
+        },
+        {
+          "head": "thread",
+          "dependent": "5",
+          "relation": "appos"
+        },
+        {
+          "head": "thread",
+          "dependent": ".",
+          "relation": "punct"
         }
       ]
     },
     "language": "en"
   },
   {
-    "id": 47,
+    "id": 44,
     "text": "Speech in only 150 words for my sister in law who is my childhood friend. With whom i have shared my whole childhood, we we together in class, and have good memories of going on school excursions and from our time together in the girl scouts in school. it should be emotional and should bring a flashback of our all memories from sharing childhood to sharing my superhero my brother's love with her.",
     "tokens": [
       {
@@ -27236,7 +27324,7 @@
     "language": "en"
   },
   {
-    "id": 48,
+    "id": 45,
     "text": "(...). Rewrite this essay in terms of life without social media.",
     "tokens": [
       {
@@ -27453,7 +27541,7 @@
     "language": "en"
   },
   {
-    "id": 49,
+    "id": 46,
     "text": "(...). Rewrite this essay with the laws of UAE and change the context as per their law.",
     "tokens": [
       {
@@ -27757,7 +27845,7 @@
     "language": "en"
   },
   {
-    "id": 50,
+    "id": 47,
     "text": "Write a research paper about the long term consequences of the Bhopal gas tragedy. Mention how many people survived and their sufferings, if any. Use sources after January 2023 for the same and keep the word count at 450-500 words. Mention Ghulam Dastgir in detail also",
     "tokens": [
       {
@@ -28484,7 +28572,7 @@
     "language": "en"
   },
   {
-    "id": 51,
+    "id": 48,
     "text": "Remove spelling grammar and any syntax errors from my article. But DO NOT paraphrase or change any words until its unavoidable-- (...).",
     "tokens": [
       {
@@ -28859,7 +28947,7 @@
     "language": "en"
   },
   {
-    "id": 52,
+    "id": 49,
     "text": "“(...)\". Write 3 catchy but formal lanugage headlines for this passage. Headline should only have 6 words.",
     "tokens": [
       {
@@ -29206,7 +29294,7 @@
     "language": "en"
   },
   {
-    "id": 53,
+    "id": 50,
     "text": "Create a thread of this article to post on twitter with max 100 characters. (...)",
     "tokens": [
       {
@@ -29464,7 +29552,7 @@
     "language": "en"
   },
   {
-    "id": 54,
+    "id": 51,
     "text": "(...). Write an paragraph filled with rich arabic descriptions and analogies on each chapter in 100 words for an article.",
     "tokens": [
       {
@@ -29806,7 +29894,7 @@
     "language": "en"
   },
   {
-    "id": 55,
+    "id": 52,
     "text": "Can you give me a short 500 words summary on the issue of gun violence in the US with a catchy headline? In that, include current policies, key statistics, and the preventive role of education. Explore federal and state regulations, highlight significant statistics, and discuss how education can contribute to safety.",
     "tokens": [
       {
@@ -30640,7 +30728,7 @@
     "language": "en"
   },
   {
-    "id": 56,
+    "id": 53,
     "text": "Write me a 600 words essay on the topic \"Technology\" using complex language, in 5 Paragraphs ,under 40 sentences.",
     "tokens": [
       {
@@ -30992,7 +31080,7 @@
     "language": "en"
   },
   {
-    "id": 57,
+    "id": 54,
     "text": "artificial rain and transboundary countries tensions. give a 100-word synthetic scenario compared with real-time evidence from 2013",
     "tokens": [
       {
@@ -31311,7 +31399,7 @@
     "language": "en"
   },
   {
-    "id": 58,
+    "id": 55,
     "text": "(...). From the above law case studies make questions for the Judicial Service Exams. It should be 6 objective type from case 1 and 2, three from each case and 2 long answer type long answer type questions from case 3 and 4, one from each case.",
     "tokens": [
       {
@@ -32070,7 +32158,7 @@
     "language": "en"
   },
   {
-    "id": 59,
+    "id": 56,
     "text": "Write an email to my manager referring my friend for a managerial role in my company. My manager's name is Rob Owens. My friend's name is Lemony Plucket. My friend has 10 years of work experience in various managerial positions in the development sector. I will be attaching her CV as well. The email should be very short and to the point.",
     "tokens": [
       {
@@ -33086,7 +33174,7 @@
     "language": "en"
   },
   {
-    "id": 60,
+    "id": 57,
     "text": "Provide me with suitable title for this story, it should be under 4 words, using poetic and complex words. (...)",
     "tokens": [
       {
@@ -33452,7 +33540,7 @@
     "language": "en"
   },
   {
-    "id": 61,
+    "id": 58,
     "text": "Write an email to my grandson taking lessons from this text and turning them into lessons for life. (...).",
     "tokens": [
       {
@@ -33790,7 +33878,7 @@
     "language": "en"
   },
   {
-    "id": 62,
+    "id": 59,
     "text": "Read this story , look for the word \"Birbal\" and replace it with the word \"Cassius\" and provide me with a download link for this text in a .Doc format. (...).",
     "tokens": [
       {
@@ -34355,7 +34443,7 @@
     "language": "en"
   },
   {
-    "id": 63,
+    "id": 60,
     "text": "(...). These are some quotes from Billie Eilish, can you add a line from her songs after each quote that aligns with the quotes with the song name.",
     "tokens": [
       {
@@ -34830,7 +34918,7 @@
     "language": "en"
   },
   {
-    "id": 64,
+    "id": 61,
     "text": "Please use the following job description and my resume to write a letter (...).",
     "tokens": [
       {
@@ -35081,7 +35169,7 @@
     "language": "en"
   },
   {
-    "id": 65,
+    "id": 62,
     "text": "(...). Add an example after each law to make it easy to understand. Explain ‘Clausius Statement” with more info.",
     "tokens": [
       {
@@ -35454,7 +35542,7 @@
     "language": "en"
   },
   {
-    "id": 66,
+    "id": 63,
     "text": "Describe a terrible hangover using this English language style: (...).",
     "tokens": [
       {
@@ -35664,7 +35752,7 @@
     "language": "en"
   },
   {
-    "id": 67,
+    "id": 64,
     "text": "Use this to create a product roadmap for Instagram’s storie so that I can increase the number of posts. Please be as detailed as possible, and whenever possible, use comparisons to other tools such as TikTok.",
     "tokens": [
       {
@@ -36233,7 +36321,7 @@
     "language": "en"
   },
   {
-    "id": 68,
+    "id": 65,
     "text": "Write me a 2000 words story on the title \"Path of hate\" with characters Alexander, James, Alice as people and talking frog ,snake, panda as animals with names Kermit, Violet ,kolo.",
     "tokens": [
       {
@@ -36802,7 +36890,7 @@
     "language": "en"
   },
   {
-    "id": 69,
+    "id": 66,
     "text": "How to make Indian-style risotto at home in 45 minutes? I have these things -\n\nArborio rice\n\nonions\n\ngarlic\n\nveggies\n\nchicken and veg broth.",
     "tokens": [
       {
@@ -37262,7 +37350,7 @@
     "language": "en"
   },
   {
-    "id": 70,
+    "id": 67,
     "text": "Can you convert this leave application into a proper email. I want formal, short email. (...).",
     "tokens": [
       {
@@ -37588,7 +37676,7 @@
     "language": "en"
   },
   {
-    "id": 71,
+    "id": 68,
     "text": "Ancient Egypt, civilization in northeastern Africa that dates from the 4th millennium BCE. (...).",
     "tokens": [
       {
@@ -37866,7 +37954,7 @@
     "language": "en"
   },
   {
-    "id": 72,
+    "id": 69,
     "text": "Give me a 20-min lesson plan for helping students age 7 share their responses to the question 'Tell me about yourself' in an impactful and engaging manner.\n\nThe lesson plan should have -\n\nDetails on how I can make sure that students achieve the objective\n\nEngagement strategies that will involve the students throughout and is not just a lecture\n\nAn assessment to monitor student success\n\nAny visual aids/study materials",
     "tokens": [
       {
@@ -39011,7 +39099,7 @@
     "language": "en"
   },
   {
-    "id": 73,
+    "id": 70,
     "text": "Can you explain assonance to me with examples of assonance in the poetry of edgar allan poe?",
     "tokens": [
       {
@@ -39271,7 +39359,7 @@
     "language": "en"
   },
   {
-    "id": 74,
+    "id": 71,
     "text": "write me a 200 word application to give our H.O.D suggesting to include Covid-19 in our school curriculum. in american english",
     "tokens": [
       {
@@ -39595,7 +39683,7 @@
     "language": "en"
   },
   {
-    "id": 75,
+    "id": 72,
     "text": "(...). In the fourth paragraph introduce a new character named John, who is a friend of Lila, with whom she shares her dream and spend a good time with.",
     "tokens": [
       {
@@ -40106,7 +40194,7 @@
     "language": "en"
   },
   {
-    "id": 76,
+    "id": 73,
     "text": "I am trying to make a fantasy world map of the fictional country Sverloth. I want the country to have a mountain range that snows all year long, 3 major rivers, plenty of forests (one of them is haunted by ghosts), grass fields, and a series of caves where dragons stay. Can you consider climatic and geographical conditions and give me a description of the country's topography?",
     "tokens": [
       {
@@ -41212,7 +41300,7 @@
     "language": "en"
   },
   {
-    "id": 77,
+    "id": 74,
     "text": "(...). Write the scene for me where the South Asian Barbie is working and says a single catchy phrase.",
     "tokens": [
       {
@@ -41557,7 +41645,7 @@
     "language": "en"
   },
   {
-    "id": 78,
+    "id": 75,
     "text": "write a 100 word summary of the role of alcohol in perfumes. does the presence of alcohol in perfume turn away a specific set of customers?",
     "tokens": [
       {
@@ -41956,7 +42044,7 @@
     "language": "en"
   },
   {
-    "id": 79,
+    "id": 76,
     "text": "give a 6-slide presentation on nitrogen oxide and how it is incorrectly portrayed as a fun activity product as laughing gas, but in reality it has life causing effects. Give a suitable title also.",
     "tokens": [
       {
@@ -42524,7 +42612,7 @@
     "language": "en"
   },
   {
-    "id": 80,
+    "id": 77,
     "text": "Write me a 150 word poem on the topic \"Lone tree of the desert\", it should be emotional and motivating.",
     "tokens": [
       {
@@ -42880,7 +42968,7 @@
     "language": "en"
   },
   {
-    "id": 81,
+    "id": 78,
     "text": "Rewrite the given text in more casual tone, use synonym for words \"taken\" and \"friend\" and the world limit should be under 220 words (...).",
     "tokens": [
       {
@@ -43359,7 +43447,7 @@
     "language": "en"
   },
   {
-    "id": 82,
+    "id": 79,
     "text": "(...). Write a situation based rap song about this code that non coders can also understand.",
     "tokens": [
       {
@@ -43651,7 +43739,7 @@
     "language": "en"
   },
   {
-    "id": 83,
+    "id": 80,
     "text": "Create a YAML template for this theory: (...).",
     "tokens": [
       {
@@ -43829,7 +43917,958 @@
     "language": "en"
   },
   {
-    "id": 84,
+    "id": 81,
+    "text": "Write me a essay on \"saving environment\" and shed a light on \"climate change and deforestation\" in today's world. The essay should only contain 2 paragraphs, should be under 300 words, using casual language suitable for children.",
+    "tokens": [
+      {
+        "word": "Write",
+        "lemma": "write",
+        "pos": "VERB",
+        "morph": {
+          "VerbForm": "Inf"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "me",
+        "lemma": "I",
+        "pos": "PRON",
+        "morph": {
+          "Case": "Acc",
+          "Number": "Sing",
+          "Person": "1",
+          "PronType": "Prs"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "morph": {
+          "Definite": "Ind",
+          "PronType": "Art"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "essay",
+        "lemma": "essay",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctSide": "Ini",
+          "PunctType": "Quot"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "saving",
+        "lemma": "save",
+        "pos": "VERB",
+        "morph": {
+          "Aspect": "Prog",
+          "Tense": "Pres",
+          "VerbForm": "Part"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "environment",
+        "lemma": "environment",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctSide": "Fin",
+          "PunctType": "Quot"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "morph": {
+          "ConjType": "Cmp"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "shed",
+        "lemma": "shed",
+        "pos": "VERB",
+        "morph": {
+          "Tense": "Past",
+          "VerbForm": "Fin"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "morph": {
+          "Definite": "Ind",
+          "PronType": "Art"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "light",
+        "lemma": "light",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctSide": "Ini",
+          "PunctType": "Quot"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "climate",
+        "lemma": "climate",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "change",
+        "lemma": "change",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "morph": {
+          "ConjType": "Cmp"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "deforestation",
+        "lemma": "deforestation",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctSide": "Fin",
+          "PunctType": "Quot"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "today",
+        "lemma": "today",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "world",
+        "lemma": "world",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "The",
+        "lemma": "the",
+        "pos": "DET",
+        "morph": {
+          "Definite": "Def",
+          "PronType": "Art"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "essay",
+        "lemma": "essay",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "should",
+        "lemma": "should",
+        "pos": "AUX",
+        "morph": {
+          "VerbForm": "Fin"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "only",
+        "lemma": "only",
+        "pos": "ADV",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "contain",
+        "lemma": "contain",
+        "pos": "VERB",
+        "morph": {
+          "VerbForm": "Inf"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "2",
+        "lemma": "2",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "paragraphs",
+        "lemma": "paragraph",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Plur"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Comm"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "should",
+        "lemma": "should",
+        "pos": "AUX",
+        "morph": {
+          "VerbForm": "Fin"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "morph": {
+          "VerbForm": "Inf"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "300",
+        "lemma": "300",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "words",
+        "lemma": "word",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Plur"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Comm"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "using",
+        "lemma": "use",
+        "pos": "VERB",
+        "morph": {
+          "Aspect": "Prog",
+          "Tense": "Pres",
+          "VerbForm": "Part"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "casual",
+        "lemma": "casual",
+        "pos": "ADJ",
+        "morph": {
+          "Degree": "Pos"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "language",
+        "lemma": "language",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "suitable",
+        "lemma": "suitable",
+        "pos": "ADJ",
+        "morph": {
+          "Degree": "Pos"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "children",
+        "lemma": "child",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Plur"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
+      }
+    ],
+    "syntax": {
+      "root": "Write",
+      "dependencies": [
+        {
+          "head": "Write",
+          "dependent": "Write",
+          "relation": "ROOT"
+        },
+        {
+          "head": "Write",
+          "dependent": "me",
+          "relation": "dative"
+        },
+        {
+          "head": "essay",
+          "dependent": "a",
+          "relation": "det"
+        },
+        {
+          "head": "Write",
+          "dependent": "essay",
+          "relation": "dobj"
+        },
+        {
+          "head": "essay",
+          "dependent": "on",
+          "relation": "prep"
+        },
+        {
+          "head": "on",
+          "dependent": "\"",
+          "relation": "punct"
+        },
+        {
+          "head": "environment",
+          "dependent": "saving",
+          "relation": "compound"
+        },
+        {
+          "head": "on",
+          "dependent": "environment",
+          "relation": "pobj"
+        },
+        {
+          "head": "Write",
+          "dependent": "\"",
+          "relation": "punct"
+        },
+        {
+          "head": "Write",
+          "dependent": "and",
+          "relation": "cc"
+        },
+        {
+          "head": "Write",
+          "dependent": "shed",
+          "relation": "conj"
+        },
+        {
+          "head": "light",
+          "dependent": "a",
+          "relation": "det"
+        },
+        {
+          "head": "shed",
+          "dependent": "light",
+          "relation": "dobj"
+        },
+        {
+          "head": "shed",
+          "dependent": "on",
+          "relation": "prep"
+        },
+        {
+          "head": "on",
+          "dependent": "\"",
+          "relation": "punct"
+        },
+        {
+          "head": "change",
+          "dependent": "climate",
+          "relation": "compound"
+        },
+        {
+          "head": "on",
+          "dependent": "change",
+          "relation": "pobj"
+        },
+        {
+          "head": "change",
+          "dependent": "and",
+          "relation": "cc"
+        },
+        {
+          "head": "change",
+          "dependent": "deforestation",
+          "relation": "conj"
+        },
+        {
+          "head": "shed",
+          "dependent": "\"",
+          "relation": "punct"
+        },
+        {
+          "head": "shed",
+          "dependent": "in",
+          "relation": "prep"
+        },
+        {
+          "head": "world",
+          "dependent": "today",
+          "relation": "poss"
+        },
+        {
+          "head": "today",
+          "dependent": "'s",
+          "relation": "case"
+        },
+        {
+          "head": "in",
+          "dependent": "world",
+          "relation": "pobj"
+        },
+        {
+          "head": "Write",
+          "dependent": ".",
+          "relation": "punct"
+        },
+        {
+          "head": "essay",
+          "dependent": "The",
+          "relation": "det"
+        },
+        {
+          "head": "contain",
+          "dependent": "essay",
+          "relation": "nsubj"
+        },
+        {
+          "head": "contain",
+          "dependent": "should",
+          "relation": "aux"
+        },
+        {
+          "head": "contain",
+          "dependent": "only",
+          "relation": "advmod"
+        },
+        {
+          "head": "contain",
+          "dependent": "contain",
+          "relation": "ROOT"
+        },
+        {
+          "head": "paragraphs",
+          "dependent": "2",
+          "relation": "nummod"
+        },
+        {
+          "head": "contain",
+          "dependent": "paragraphs",
+          "relation": "dobj"
+        },
+        {
+          "head": "contain",
+          "dependent": ",",
+          "relation": "punct"
+        },
+        {
+          "head": "be",
+          "dependent": "should",
+          "relation": "aux"
+        },
+        {
+          "head": "contain",
+          "dependent": "be",
+          "relation": "conj"
+        },
+        {
+          "head": "be",
+          "dependent": "under",
+          "relation": "prep"
+        },
+        {
+          "head": "words",
+          "dependent": "300",
+          "relation": "nummod"
+        },
+        {
+          "head": "under",
+          "dependent": "words",
+          "relation": "pobj"
+        },
+        {
+          "head": "be",
+          "dependent": ",",
+          "relation": "punct"
+        },
+        {
+          "head": "be",
+          "dependent": "using",
+          "relation": "advcl"
+        },
+        {
+          "head": "language",
+          "dependent": "casual",
+          "relation": "amod"
+        },
+        {
+          "head": "using",
+          "dependent": "language",
+          "relation": "dobj"
+        },
+        {
+          "head": "language",
+          "dependent": "suitable",
+          "relation": "amod"
+        },
+        {
+          "head": "suitable",
+          "dependent": "for",
+          "relation": "prep"
+        },
+        {
+          "head": "for",
+          "dependent": "children",
+          "relation": "pobj"
+        },
+        {
+          "head": "contain",
+          "dependent": ".",
+          "relation": "punct"
+        }
+      ]
+    },
+    "language": "en"
+  },
+  {
+    "id": 82,
+    "text": "Can you compose a lovely sonnet in this matter where Hegel romanticizes the idea of consciousness - (...)",
+    "tokens": [
+      {
+        "word": "Can",
+        "lemma": "can",
+        "pos": "AUX",
+        "morph": {
+          "VerbForm": "Fin"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "you",
+        "lemma": "you",
+        "pos": "PRON",
+        "morph": {
+          "Case": "Nom",
+          "Person": "2",
+          "PronType": "Prs"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "compose",
+        "lemma": "compose",
+        "pos": "VERB",
+        "morph": {
+          "VerbForm": "Inf"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "morph": {
+          "Definite": "Ind",
+          "PronType": "Art"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "lovely",
+        "lemma": "lovely",
+        "pos": "ADJ",
+        "morph": {
+          "Degree": "Pos"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "sonnet",
+        "lemma": "sonnet",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "morph": {
+          "Number": "Sing",
+          "PronType": "Dem"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "matter",
+        "lemma": "matter",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "where",
+        "lemma": "where",
+        "pos": "SCONJ",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "Hegel",
+        "lemma": "Hegel",
+        "pos": "PROPN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "romanticizes",
+        "lemma": "romanticize",
+        "pos": "VERB",
+        "morph": {
+          "Number": "Sing",
+          "Person": "3",
+          "Tense": "Pres",
+          "VerbForm": "Fin"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "morph": {
+          "Definite": "Def",
+          "PronType": "Art"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "idea",
+        "lemma": "idea",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": "consciousness",
+        "lemma": "consciousness",
+        "pos": "NOUN",
+        "morph": {
+          "Number": "Sing"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctSide": "Ini",
+          "PunctType": "Brck"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "pos": "PUNCT",
+        "morph": {},
+        "intellectual_activity": {}
+      },
+      {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctSide": "Fin",
+          "PunctType": "Brck"
+        },
+        "intellectual_activity": {}
+      }
+    ],
+    "syntax": {
+      "root": "compose",
+      "dependencies": [
+        {
+          "head": "compose",
+          "dependent": "Can",
+          "relation": "aux"
+        },
+        {
+          "head": "compose",
+          "dependent": "you",
+          "relation": "nsubj"
+        },
+        {
+          "head": "compose",
+          "dependent": "compose",
+          "relation": "ROOT"
+        },
+        {
+          "head": "sonnet",
+          "dependent": "a",
+          "relation": "det"
+        },
+        {
+          "head": "sonnet",
+          "dependent": "lovely",
+          "relation": "amod"
+        },
+        {
+          "head": "compose",
+          "dependent": "sonnet",
+          "relation": "dobj"
+        },
+        {
+          "head": "compose",
+          "dependent": "in",
+          "relation": "prep"
+        },
+        {
+          "head": "matter",
+          "dependent": "this",
+          "relation": "det"
+        },
+        {
+          "head": "in",
+          "dependent": "matter",
+          "relation": "pobj"
+        },
+        {
+          "head": "romanticizes",
+          "dependent": "where",
+          "relation": "advmod"
+        },
+        {
+          "head": "romanticizes",
+          "dependent": "Hegel",
+          "relation": "nsubj"
+        },
+        {
+          "head": "matter",
+          "dependent": "romanticizes",
+          "relation": "relcl"
+        },
+        {
+          "head": "idea",
+          "dependent": "the",
+          "relation": "det"
+        },
+        {
+          "head": "romanticizes",
+          "dependent": "idea",
+          "relation": "dobj"
+        },
+        {
+          "head": "idea",
+          "dependent": "of",
+          "relation": "prep"
+        },
+        {
+          "head": "of",
+          "dependent": "consciousness",
+          "relation": "pobj"
+        },
+        {
+          "head": "compose",
+          "dependent": "-",
+          "relation": "punct"
+        },
+        {
+          "head": "compose",
+          "dependent": "(",
+          "relation": "punct"
+        },
+        {
+          "head": "compose",
+          "dependent": "...",
+          "relation": "punct"
+        },
+        {
+          "head": "compose",
+          "dependent": ")",
+          "relation": "punct"
+        }
+      ]
+    },
+    "language": "en"
+  },
+  {
+    "id": 83,
     "text": "Create a pitch for me using novel \"The Stars My Destination\" by Alfred Bester (1956), with all details like screen time, budget, locations, actors and technicians.",
     "tokens": [
       {
@@ -44335,7 +45374,7 @@
     "language": "en"
   },
   {
-    "id": 85,
+    "id": 84,
     "text": "(...). Add more info into 3rd para and 6th para. In 3rd para talk about more energy efficient products and 6th para talk about importance of eco-friendly products.",
     "tokens": [
       {
@@ -44827,7 +45866,7 @@
     "language": "en"
   },
   {
-    "id": 86,
+    "id": 85,
     "text": "Write a short story about a friendly dragon named \"Jörmungandr\" who lives atop a mountain and befriends a group of 4 adventurous kids with names Noah, liam ,oliver and ethan, where ethan has a pet dog who is afraid of dragons, and an antagonist arson survivor who is skeptical about the dragon, who will be villian of this story in just 7 paragraphs? It should be under 600 words, using simple language suitable for young readers.",
     "tokens": [
       {
@@ -46047,7 +47086,7 @@
     "language": "en"
   },
   {
-    "id": 87,
+    "id": 86,
     "text": "(...). Change the text into UK english and add an 100 word introduction and 100 words conclusion to it.",
     "tokens": [
       {
@@ -46383,7 +47422,7 @@
     "language": "en"
   },
   {
-    "id": 88,
+    "id": 87,
     "text": "I want to use Socratic Irony to discuss Kant's Philosophy of Ethics with my students, starting from a zero level. Can you help me with an A-4 size script?",
     "tokens": [
       {
@@ -46859,7 +47898,7 @@
     "language": "en"
   },
   {
-    "id": 89,
+    "id": 88,
     "text": "(...). Add 2 instances to this story that changes Paul's prespective towards the education and help him understand the importance of studies. Rewrite the story to include Paul's changed perspective also",
     "tokens": [
       {
@@ -47388,7 +48427,7 @@
     "language": "en"
   },
   {
-    "id": 90,
+    "id": 89,
     "text": "Create a 180 word presie from this essay. Then omit words from it leaving only 60 word presie that summarizes the whole thing. (...).",
     "tokens": [
       {
@@ -47812,7 +48851,7 @@
     "language": "en"
   },
   {
-    "id": 91,
+    "id": 90,
     "text": "I want this in a horror themed style story where students are advised on what to do and not to do, keep the length to its half and add thrilling bits in the middle: (...).",
     "tokens": [
       {
@@ -48384,7 +49423,7 @@
     "language": "en"
   },
   {
-    "id": 92,
+    "id": 91,
     "text": "Seeing a lot of discussion about the mental load of household work for women. Can you help me put it in context to a football match so I can better explain it to my son who is getting married soon?",
     "tokens": [
       {
@@ -48994,7 +50033,7 @@
     "language": "en"
   },
   {
-    "id": 93,
+    "id": 92,
     "text": "will tight wigs lead to scalp cancer? a visual representation of the involved steps with used texts of at most 5 words.",
     "tokens": [
       {
@@ -49335,7 +50374,7 @@
     "language": "en"
   },
   {
-    "id": 94,
+    "id": 93,
     "text": "Can you write a simple essay on the origins of the phrase \"Grass is greener on the other side\"? Include who coined it, its first appearance in text, variations in pop culture, and any conflicted usage if any.",
     "tokens": [
       {
@@ -49980,8 +51019,8 @@
     "language": "en"
   },
   {
-    "id": 95,
-    "text": "“(...).”. I wrote an essay on “courage and leadership.” Now add 3 relevant quotes from popular world leaders born in China in para 1, 4 and",
+    "id": 94,
+    "text": "“(...).”. I wrote an essay on “courage and leadership.” Now add 3 relevant quotes from popular world leaders born in China in para 1, 4 and 6.",
     "tokens": [
       {
         "word": "“",
@@ -50307,6 +51346,24 @@
           "ConjType": "Cmp"
         },
         "intellectual_activity": {}
+      },
+      {
+        "word": "6",
+        "lemma": "6",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
+        },
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
+        },
+        "intellectual_activity": {}
       }
     ],
     "syntax": {
@@ -50488,17 +51545,27 @@
           "relation": "nummod"
         },
         {
-          "head": "add",
+          "head": "4",
           "dependent": "and",
           "relation": "cc"
+        },
+        {
+          "head": "4",
+          "dependent": "6",
+          "relation": "conj"
+        },
+        {
+          "head": "add",
+          "dependent": ".",
+          "relation": "punct"
         }
       ]
     },
     "language": "en"
   },
   {
-    "id": 96,
-    "text": "I had applied for the position of Risk Analyst Position at ABC Company, India. My current salary, per month - working for XYZ Company as a Policy Analyst is INR",
+    "id": 95,
+    "text": "I had applied for the position of Risk Analyst Position at ABC Company, India. My current salary, per month - working for XYZ Company as a Policy Analyst is INR 120000. and the salary ABCis willing to give is INR 45000 probationary for the first 6 months and then 50000 afterwards. The HR of ABC asked me to drop her an email saying why I'm okay with working under a much less payscale than my XYZ salary. Please write an email for me stating that I'm okay with the salary being provided by ABC because I want to get into the risk analysis space and because of the companies reputation. Also mention that after I completed the online risk analysis training from ABC - I've been hoping to get a chance to work with them.\n\nKeep the body of the email under 150 words.",
     "tokens": [
       {
         "word": "I",
@@ -50801,184 +51868,25 @@
           "Number": "Sing"
         },
         "intellectual_activity": {}
-      }
-    ],
-    "syntax": {
-      "root": "applied",
-      "dependencies": [
-        {
-          "head": "applied",
-          "dependent": "I",
-          "relation": "nsubj"
+      },
+      {
+        "word": "120000",
+        "lemma": "120000",
+        "pos": "NUM",
+        "morph": {
+          "NumType": "Card"
         },
-        {
-          "head": "applied",
-          "dependent": "had",
-          "relation": "aux"
+        "intellectual_activity": {}
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "morph": {
+          "PunctType": "Peri"
         },
-        {
-          "head": "applied",
-          "dependent": "applied",
-          "relation": "ROOT"
-        },
-        {
-          "head": "applied",
-          "dependent": "for",
-          "relation": "prep"
-        },
-        {
-          "head": "position",
-          "dependent": "the",
-          "relation": "det"
-        },
-        {
-          "head": "for",
-          "dependent": "position",
-          "relation": "pobj"
-        },
-        {
-          "head": "position",
-          "dependent": "of",
-          "relation": "prep"
-        },
-        {
-          "head": "Analyst",
-          "dependent": "Risk",
-          "relation": "compound"
-        },
-        {
-          "head": "Position",
-          "dependent": "Analyst",
-          "relation": "compound"
-        },
-        {
-          "head": "of",
-          "dependent": "Position",
-          "relation": "pobj"
-        },
-        {
-          "head": "Position",
-          "dependent": "at",
-          "relation": "prep"
-        },
-        {
-          "head": "Company",
-          "dependent": "ABC",
-          "relation": "compound"
-        },
-        {
-          "head": "at",
-          "dependent": "Company",
-          "relation": "pobj"
-        },
-        {
-          "head": "Company",
-          "dependent": ",",
-          "relation": "punct"
-        },
-        {
-          "head": "Company",
-          "dependent": "India",
-          "relation": "appos"
-        },
-        {
-          "head": "applied",
-          "dependent": ".",
-          "relation": "punct"
-        },
-        {
-          "head": "salary",
-          "dependent": "My",
-          "relation": "poss"
-        },
-        {
-          "head": "salary",
-          "dependent": "current",
-          "relation": "amod"
-        },
-        {
-          "head": "is",
-          "dependent": "salary",
-          "relation": "nsubj"
-        },
-        {
-          "head": "salary",
-          "dependent": ",",
-          "relation": "punct"
-        },
-        {
-          "head": "is",
-          "dependent": "per",
-          "relation": "prep"
-        },
-        {
-          "head": "working",
-          "dependent": "month",
-          "relation": "npadvmod"
-        },
-        {
-          "head": "working",
-          "dependent": "-",
-          "relation": "punct"
-        },
-        {
-          "head": "per",
-          "dependent": "working",
-          "relation": "pcomp"
-        },
-        {
-          "head": "working",
-          "dependent": "for",
-          "relation": "prep"
-        },
-        {
-          "head": "Company",
-          "dependent": "XYZ",
-          "relation": "compound"
-        },
-        {
-          "head": "for",
-          "dependent": "Company",
-          "relation": "pobj"
-        },
-        {
-          "head": "working",
-          "dependent": "as",
-          "relation": "prep"
-        },
-        {
-          "head": "Analyst",
-          "dependent": "a",
-          "relation": "det"
-        },
-        {
-          "head": "Analyst",
-          "dependent": "Policy",
-          "relation": "compound"
-        },
-        {
-          "head": "as",
-          "dependent": "Analyst",
-          "relation": "pobj"
-        },
-        {
-          "head": "is",
-          "dependent": "is",
-          "relation": "ROOT"
-        },
-        {
-          "head": "is",
-          "dependent": "INR",
-          "relation": "attr"
-        }
-      ]
-    },
-    "language": "en"
-  },
-  {
-    "id": 97,
-    "text": "and the salary ABCis willing to give is INR 45000 probationary for the first 6 months and then 50000 afterwards. The HR of ABC asked me to drop her an email saying why I'm okay with working under a much less payscale than my XYZ salary. Please write an email for me stating that I'm okay with the salary being provided by ABC because I want to get into the risk analysis space and because of the companies reputation. Also mention that after I completed the online risk analysis training from ABC - I've been hoping to get a chance to work with them.\n\nKeep the body of the email under 150 words.",
-    "tokens": [
+        "intellectual_activity": {}
+      },
       {
         "word": "and",
         "lemma": "and",
@@ -52089,8 +52997,183 @@
       }
     ],
     "syntax": {
-      "root": "ABCis",
+      "root": "applied",
       "dependencies": [
+        {
+          "head": "applied",
+          "dependent": "I",
+          "relation": "nsubj"
+        },
+        {
+          "head": "applied",
+          "dependent": "had",
+          "relation": "aux"
+        },
+        {
+          "head": "applied",
+          "dependent": "applied",
+          "relation": "ROOT"
+        },
+        {
+          "head": "applied",
+          "dependent": "for",
+          "relation": "prep"
+        },
+        {
+          "head": "position",
+          "dependent": "the",
+          "relation": "det"
+        },
+        {
+          "head": "for",
+          "dependent": "position",
+          "relation": "pobj"
+        },
+        {
+          "head": "position",
+          "dependent": "of",
+          "relation": "prep"
+        },
+        {
+          "head": "Analyst",
+          "dependent": "Risk",
+          "relation": "compound"
+        },
+        {
+          "head": "Position",
+          "dependent": "Analyst",
+          "relation": "compound"
+        },
+        {
+          "head": "of",
+          "dependent": "Position",
+          "relation": "pobj"
+        },
+        {
+          "head": "Position",
+          "dependent": "at",
+          "relation": "prep"
+        },
+        {
+          "head": "Company",
+          "dependent": "ABC",
+          "relation": "compound"
+        },
+        {
+          "head": "at",
+          "dependent": "Company",
+          "relation": "pobj"
+        },
+        {
+          "head": "Company",
+          "dependent": ",",
+          "relation": "punct"
+        },
+        {
+          "head": "Company",
+          "dependent": "India",
+          "relation": "appos"
+        },
+        {
+          "head": "applied",
+          "dependent": ".",
+          "relation": "punct"
+        },
+        {
+          "head": "salary",
+          "dependent": "My",
+          "relation": "poss"
+        },
+        {
+          "head": "salary",
+          "dependent": "current",
+          "relation": "amod"
+        },
+        {
+          "head": "is",
+          "dependent": "salary",
+          "relation": "nsubj"
+        },
+        {
+          "head": "is",
+          "dependent": ",",
+          "relation": "punct"
+        },
+        {
+          "head": "is",
+          "dependent": "per",
+          "relation": "prep"
+        },
+        {
+          "head": "working",
+          "dependent": "month",
+          "relation": "npadvmod"
+        },
+        {
+          "head": "working",
+          "dependent": "-",
+          "relation": "punct"
+        },
+        {
+          "head": "per",
+          "dependent": "working",
+          "relation": "pcomp"
+        },
+        {
+          "head": "working",
+          "dependent": "for",
+          "relation": "prep"
+        },
+        {
+          "head": "Company",
+          "dependent": "XYZ",
+          "relation": "compound"
+        },
+        {
+          "head": "for",
+          "dependent": "Company",
+          "relation": "pobj"
+        },
+        {
+          "head": "working",
+          "dependent": "as",
+          "relation": "prep"
+        },
+        {
+          "head": "Analyst",
+          "dependent": "a",
+          "relation": "det"
+        },
+        {
+          "head": "Analyst",
+          "dependent": "Policy",
+          "relation": "compound"
+        },
+        {
+          "head": "as",
+          "dependent": "Analyst",
+          "relation": "pobj"
+        },
+        {
+          "head": "is",
+          "dependent": "is",
+          "relation": "ROOT"
+        },
+        {
+          "head": "is",
+          "dependent": "INR",
+          "relation": "attr"
+        },
+        {
+          "head": "INR",
+          "dependent": "120000",
+          "relation": "nummod"
+        },
+        {
+          "head": "is",
+          "dependent": ".",
+          "relation": "punct"
+        },
         {
           "head": "ABCis",
           "dependent": "and",
@@ -52706,7 +53789,7 @@
     "language": "en"
   },
   {
-    "id": 98,
+    "id": 96,
     "text": "write an essay on \"Cyber Conversations,\" was the first message ever sent over the Internet successful? and was it used for the same purpose as today. write the essay in the format of an essay like \"(...).\"",
     "tokens": [
       {
@@ -53386,7 +54469,7 @@
     "language": "en"
   },
   {
-    "id": 99,
+    "id": 97,
     "text": "10 bullet points about how the painting \"American Progress\" by John Gast depicts the essence of Manifest Destiny, the ancient belief of some Americans.",
     "tokens": [
       {
@@ -53786,7 +54869,7 @@
     "language": "en"
   },
   {
-    "id": 100,
+    "id": 98,
     "text": "Write a limerick by only using the given words - \"(...)\"",
     "tokens": [
       {
@@ -54010,7 +55093,7 @@
     "language": "en"
   },
   {
-    "id": 101,
+    "id": 99,
     "text": "Write a report on the leaked Grand Theft Auto VI trailer. Cover details like the Miami-inspired setting, the new female lead Lucia, and fan reactions. Discuss basic info like the release date, platforms, and Lucia's potential voice actor. Get insights from gaming experts and trends. End by talking about GTA's impact on gaming culture. Here is some info: (...).",
     "tokens": [
       {
@@ -55079,7 +56162,7 @@
     "language": "en"
   },
   {
-    "id": 102,
+    "id": 100,
     "text": "Prepare a speech for me as the oath taking ceremony tomorrow as the Mayor of a town which disregards any claims that I broke the law while politely telling the media to first let me finish my speech and then ask their questions. The tone of the whole speech should be cheery and thankful while complimenting tomorrow's sunny day. Introduce a few jokes on myself so as to let the people know that iam funny but don't make it too obvious.",
     "tokens": [
       {
