@@ -885,7 +885,7 @@
       {
         "word": "Дидактические",
         "lemma": "дидактический",
-        "pos": "ADJF",
+        "pos": "ADJ",
         "morph": {
             "Case": "Nom",
             "Degree": "Pos",
@@ -10476,7 +10476,7 @@
       {
         "word": "На",
         "lemma": "на",
-        "pos": "PREP",
+        "pos": "ADP",
         "morph": {},
         "intellectual_activity": {}
       },
