@@ -1122,12 +1122,13 @@
       {
         "word": "Составь",
         "lemma": "составить",
-        "pos": "ADJ",
+        "pos": "VERB",
         "morph": {
-          "Case": "Nom",
-          "Degree": "Pos",
-          "Gender": "Masc",
-          "Number": "Sing"
+            "Animacy": "Inan",
+            "Case": "Acc",
+            "Degree": "Pos",
+            "Gender": "Masc",
+            "Number": "Sing"
         },
         "intellectual_activity": {}
       },
@@ -2622,7 +2623,7 @@
         {
           "head": "Перефразируй",
           "dependent": "Перефразируй",
-          "relation": "nsubj"
+          "relation": "ROOT"
         },
         {
           "head": "уникальностью",
@@ -4709,10 +4710,13 @@
       },
       {
         "word": "придумай",
-        "lemma": "придумай",
-        "pos": "ADV",
+        "lemma": "придумать",
+        "pos": "VERB",
         "morph": {
-          "Degree": "Pos"
+            "Case": "Acc",
+            "Degree": "Pos",
+            "Gender": "Fem",
+            "Number": "Sing"
         },
         "intellectual_activity": {}
       },
@@ -4778,24 +4782,24 @@
     ],
     "syntax": {
       "root": {
-        "id": 12,
-        "text": "пожалуйста"
+        "id": 11,
+        "text": "придумай"
       },
       "dependencies": [
         {
-          "head": "пожалуйста",
+          "head": "придумай",
           "dependent": "А",
           "relation": "cc"
         },
         {
-          "head": "пожалуйста",
+          "head": "придумай",
           "dependent": "придумай",
-          "relation": "nsubj"
+          "relation": "ROOT"
         },
         {
-          "head": "пожалуйста",
+          "head": "придумай",
           "dependent": "пожалуйста",
-          "relation": "ROOT"
+          "relation": "advmod"
         },
         {
           "head": "несколько",
@@ -4808,7 +4812,7 @@
           "relation": "nummod:gov"
         },
         {
-          "head": "пожалуйста",
+          "head": "придумай",
           "dependent": "загадок",
           "relation": "obj"
         },
@@ -7465,27 +7469,26 @@
       {
         "word": "Составьте",
         "lemma": "составьте",
-        "pos": "NOUN",
+        "pos": "VERB",
         "morph": {
-          "Animacy": "Inan",
-          "Case": "Nom",
-          "Gender": "Masc",
-          "Number": "Sing"
+            "Aspect": "Perf",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Fin",
+            "Voice": "Act"
         },
         "intellectual_activity": {}
       },
       {
         "word": "реализмическую",
         "lemma": "реализмический",
-        "pos": "VERB",
+        "pos": "ADJ",
         "morph": {
-          "Aspect": "Imp",
-          "Gender": "Masc",
-          "Mood": "Ind",
-          "Number": "Sing",
-          "Tense": "Past",
-          "VerbForm": "Fin",
-          "Voice": "Act"
+            "Case": "Nom",
+            "Degree": "Pos",
+            "Gender": "Masc",
+            "Number": "Sing"
         },
         "intellectual_activity": {}
       },
@@ -7627,22 +7630,22 @@
     ],
     "syntax": {
       "root": {
-        "id": 11,
-        "text": "реализмическую"
+        "id": 10,
+        "text": "Составьте"
       },
       "dependencies": [
         {
-          "head": "реализмическую",
+          "head": "Составьте",
           "dependent": "Составьте",
-          "relation": "nsubj"
-        },
-        {
-          "head": "реализмическую",
-          "dependent": "реализмическую",
           "relation": "ROOT"
         },
         {
-          "head": "реализмическую",
+          "head": "историю",
+          "dependent": "реализмическую",
+          "relation": "amod"
+        },
+        {
+          "head": "Составьте",
           "dependent": "историю",
           "relation": "obj"
         },
@@ -11435,12 +11438,14 @@
       {
         "word": "придумай",
         "lemma": "придумать",
-        "pos": "NOUN",
+        "pos": "VERB",
         "morph": {
-          "Animacy": "Inan",
-          "Case": "Nom",
-          "Gender": "Masc",
-          "Number": "Sing"
+            "Aspect": "Perf",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin",
+            "Voice": "Act"
         },
         "intellectual_activity": {}
       },
@@ -11765,9 +11770,9 @@
       },
       "dependencies": [
         {
-          "head": "персонаж",
+          "head": "Создай",
           "dependent": "Создай",
-          "relation": "amod"
+          "relation": "ROOT"
         },
         {
           "head": "персонаж",
@@ -15632,9 +15637,9 @@
       },
       "dependencies": [
         {
-          "head": "впечатления",
+          "head": "Опиши",
           "dependent": "Опиши",
-          "relation": "amod"
+          "relation": "ROOT"
         },
         {
           "head": "Опиши",
@@ -17068,15 +17073,15 @@
       {
         "word": "довольная",
         "lemma": "довольный",
-        "pos": "VERB",
+        "pos": "ADJ",
         "morph": {
-          "Aspect": "Perf",
-          "Case": "Nom",
-          "Gender": "Fem",
-          "Number": "Sing",
-          "Tense": "Past",
-          "VerbForm": "Part",
-          "Voice": "Pass"
+            "Aspect": "Perf",
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Tense": "Past",
+            "VerbForm": "Part",
+            "Voice": "Pass"
         },
         "intellectual_activity": {}
       },
@@ -17138,7 +17143,7 @@
       },
       "dependencies": [
         {
-          "head": "довольная",
+          "head": "опиши",
           "dependent": "Используя",
           "relation": "advcl"
         },
@@ -17158,9 +17163,9 @@
           "relation": "punct"
         },
         {
-          "head": "список",
+          "head": "опиши",
           "dependent": "опиши",
-          "relation": "acl"
+          "relation": "ROOT"
         },
         {
           "head": "ролик",
@@ -17980,13 +17985,11 @@
       {
         "word": "законспектирует",
         "lemma": "законспектировать",
-        "pos": "ADJ",
+        "pos": "VERB",
         "morph": {
-          "Animacy": "Inan",
-          "Case": "Acc",
-          "Degree": "Pos",
-          "Gender": "Masc",
-          "Number": "Sing"
+            "Aspect": "Perf",
+            "VerbForm": "Inf",
+            "Voice": "Act"
         },
         "intellectual_activity": {}
       },
@@ -19532,14 +19535,9 @@
       {
         "word": "однотипно",
         "lemma": "однотипный",
-        "pos": "VERB",
+        "pos": "ADV",
         "morph": {
-          "Aspect": "Imp",
-          "Mood": "Imp",
-          "Number": "Sing",
-          "Person": "2",
-          "VerbForm": "Fin",
-          "Voice": "Act"
+            "Degree": "Pos"
         },
         "intellectual_activity": {}
       },
@@ -19726,7 +19724,7 @@
           "relation": "discourse"
         },
         {
-          "head": "однотипно",
+          "head": "говорить",
           "dependent": "потому",
           "relation": "parataxis"
         },
@@ -19741,14 +19739,14 @@
           "relation": "punct"
         },
         {
-          "head": "однотипно",
+          "head": "обычно",
           "dependent": "не",
           "relation": "advmod"
         },
         {
-          "head": "однотипно",
+          "head": "говорить",
           "dependent": "однотипно",
-          "relation": "ROOT"
+          "relation": "advmod"
         },
         {
           "head": "говорить",
@@ -19771,7 +19769,7 @@
           "relation": "nsubj"
         },
         {
-          "head": "однотипно",
+          "head": "говорить",
           "dependent": "задумалась",
           "relation": "advcl"
         },
@@ -19801,9 +19799,9 @@
           "relation": "aux"
         },
         {
-          "head": "однотипно",
+          "head": "задумалась",
           "dependent": "говорить",
-          "relation": "advcl"
+          "relation": "conj"
         },
         {
           "head": "говорить",
@@ -19811,9 +19809,9 @@
           "relation": "obj"
         },
         {
-          "head": "однотипно",
+          "head": "сердце",
           "dependent": "брошь",
-          "relation": "iobj"
+          "relation": "amod"
         },
         {
           "head": "брошь",
@@ -23207,12 +23205,14 @@
       {
         "word": "продолжай",
         "lemma": "продолжать",
-        "pos": "ADJ",
+        "pos": "VERB",
         "morph": {
-          "Degree": "Pos",
-          "Gender": "Masc",
-          "Number": "Sing",
-          "Variant": "Short"
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin",
+            "Voice": "Act"
         },
         "intellectual_activity": {}
       }
@@ -23229,14 +23229,9 @@
           "relation": "ROOT"
         },
         {
-          "head": "неплохо",
-          "dependent": ",",
-          "relation": "punct"
-        },
-        {
-          "head": "неплохо",
+          "head": "продолжай",
           "dependent": "продолжай",
-          "relation": "conj"
+          "relation": "ROOT"
         }
       ]
     },
@@ -23863,9 +23858,9 @@
       },
       "dependencies": [
         {
-          "head": "суть",
+          "head": "Опиши",
           "dependent": "Опиши",
-          "relation": "acl"
+          "relation": "ROOT"
         },
         {
           "head": "Опиши",
@@ -24051,13 +24046,9 @@
         "lemma": "написать",
         "pos": "VERB",
         "morph": {
-          "Aspect": "Imp",
-          "Mood": "Ind",
-          "Number": "Sing",
-          "Person": "3",
-          "Tense": "Pres",
-          "VerbForm": "Fin",
-          "Voice": "Act"
+            "Aspect": "Perf",
+            "VerbForm": "Inf",
+            "Voice": "Act"
         },
         "intellectual_activity": {}
       },
@@ -24340,9 +24331,9 @@
       },
       "dependencies": [
         {
-          "head": "состоялось",
+          "head": "Написать",
           "dependent": "Написать",
-          "relation": "csubj"
+          "relation": "ROOT"
         },
         {
           "head": "Написать",
